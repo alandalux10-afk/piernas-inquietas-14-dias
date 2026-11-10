@@ -1,0 +1,17 @@
+PIERNAS INQUIETAS — INSTALACIÓN EN ANDROID
+
+1. Descomprime este ZIP en tu ordenador.
+2. Publica el CONTENIDO de la carpeta piernas_inquietas_pwa en GitHub Pages o en otro alojamiento HTTPS.
+3. Abre la dirección HTTPS resultante con Chrome en Android.
+4. Pulsa ⋮ > Añadir a pantalla de inicio > Instalar.
+5. Abre el icono desde la pantalla de inicio.
+
+GITHUB PAGES (sin coste, repositorio público):
+- Crea un repositorio nuevo en github.com (por ejemplo piernas-inquietas-14-dias).
+- Sube los cinco archivos: index.html, manifest.webmanifest, sw.js, icon-192.png e icon-512.png.
+- En Settings > Pages > Build and deployment, selecciona Deploy from a branch, main, /(root) y Save.
+- Abre la dirección indicada por GitHub Pages cuando termine de publicarse.
+
+PRIVACIDAD: Los archivos de la aplicación serán públicos en GitHub Pages, pero tus registros se guardan localmente en el navegador, no en GitHub. Exporta copias JSON periódicamente. Si ya utilizaste la versión HTML anterior, exporta su copia JSON y restáurala desde la nueva versión. No borres la antigua hasta verificar la importación.
+
+AVISO: Este paquete todavía no está publicado. Abrir index.html como archivo local NO permite instalarlo como PWA.
